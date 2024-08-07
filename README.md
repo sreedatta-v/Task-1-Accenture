@@ -13,12 +13,12 @@ Importantly, not everyone will have a strong understanding of data. Your job is 
 
 In order to follow the Business task, I will do the following analysis steps:
 
-1. [Ask]()
-2. Prepare
-3. Process
-4. Analysis
-5. Share
-6. Act
+1. [Ask](https://github.com/sreedatta-v/Task-1-Accenture/blob/main/README.md)
+2. [Prepare](https://github.com/sreedatta-v/Task-1-Accenture/blob/main/README.md)
+3. [Process](https://github.com/sreedatta-v/Task-1-Accenture/blob/main/README.md)
+4. [Analysis](https://github.com/sreedatta-v/Task-1-Accenture/blob/main/README.md)
+5. [Share](https://github.com/sreedatta-v/Task-1-Accenture/blob/main/README.md)
+6. [Act](https://github.com/sreedatta-v/Task-1-Accenture/blob/main/README.md)
 ## About Company  
 One of Accenture's managing directors, Mae Mulligan, is the client lead for Social Buzz.  
 
