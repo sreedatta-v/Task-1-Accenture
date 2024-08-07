@@ -9,8 +9,16 @@ They rely on your analysis to make strategic business decisions.
   
 Importantly, not everyone will have a strong understanding of data. Your job is to communicate your data findings simply and clearly for everyone to understand.   
  
-• <b> The Data </b> refers to the relevant data sources that you will clean, process, and use to generate interesting insights for the business.
+• <b> The Data </b> refers to the relevant data sources that you will clean, process, and use to generate interesting insights for the business.  
 
+In order to follow the Business task, I will do the following analysis steps:
+
+1. [Ask]()
+2. Prepare
+3. Process
+4. Analysis
+5. Share
+6. Act
 ## About Company  
 One of Accenture's managing directors, Mae Mulligan, is the client lead for Social Buzz.  
 
