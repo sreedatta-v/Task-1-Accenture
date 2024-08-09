@@ -121,3 +121,6 @@ It is also important to assess which customers are repeating the most and how mu
 These customers buy on certain months only, therefore, the management needs to ensure that enough supplies are available to accommodate their orders. The customers will high order volumes and low revenue would need to be offered more discounts so that they can buy in bulk and lead to more revenue.
 
 <hr>
+
+# Task 3
+Goal: The executives want to analyse the trends and the breakdown by different categories so that they have clarity on how the revenue is being generated and what are the main factors affecting the online store.
